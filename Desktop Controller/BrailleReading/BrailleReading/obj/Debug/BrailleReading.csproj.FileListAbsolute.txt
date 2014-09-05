@@ -1,0 +1,12 @@
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\bin\Debug\BrailleReading.exe
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\bin\Debug\BrailleReading.pdb
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.MainForm.resources
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.Properties.Resources.resources
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.csproj.GenerateResource.Cache
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.exe
+D:\Documents\Research\Projects\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.pdb
+D:\Documents\My Dropbox\Research\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.exe
+D:\Documents\My Dropbox\Research\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.pdb
+C:\Users\João\Documents\My Dropbox\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.exe
+C:\Users\João\Documents\My Dropbox\BrailleReading\project\BrailleReading\BrailleReading\obj\Debug\BrailleReading.pdb
